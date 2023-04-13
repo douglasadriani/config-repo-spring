@@ -1,1 +1,1 @@
-# config-repo-springa
+# config-repo-spring
